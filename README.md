@@ -1,2 +1,2 @@
 # telerik
-Telerik Alpha Program, JavaScript course 
+Telerik Alpha Program, JavaScript course preparation
